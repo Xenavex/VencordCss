@@ -145,4 +145,9 @@
     --switch-unchecked-color: #74796e;
 }
 
+.theme-dark .container-YkUktl {
+    background: var(--bg-overlay-3,var(--background-secondary));
+    padding: 0 0px !important;
+    margin-bottom: 0px !important;
+}
 /* Made By The Commie Axolotl */
